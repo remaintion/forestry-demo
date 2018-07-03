@@ -11,5 +11,5 @@ menu:
   navigation:
     identifier: _projects
     url: "/projects/"
-    weight: 4
+    weight: 3
 ---

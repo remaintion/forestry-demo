@@ -12,5 +12,5 @@ menu:
   navigation:
     identifier: _posts
     url: "/posts/"
-    weight: 5
+    weight: 4
 ---

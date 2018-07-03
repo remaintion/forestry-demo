@@ -29,5 +29,5 @@ menu:
   navigation:
     identifier: _index
     url: "/"
-    weight: 3
+    weight: 2
 ---
